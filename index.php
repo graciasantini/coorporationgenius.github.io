@@ -8,18 +8,6 @@
     <title>The genius coorporation</title>
 </head>
 <body>
-    <?php 
-    include("pages/header.php");
-    ?>
-
-    <?php 
-    include("pages/main.php");
-    ?>
-
-    <?php 
-    include("pages/footer.php");
-    ?>
-    <script src="js/script.js">
-    </script>
+    <p>Bonjour</p>
 </body>
 </html>
